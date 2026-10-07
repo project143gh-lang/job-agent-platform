@@ -4,7 +4,7 @@ An intelligent job agent platform with web interface. Automate your job search w
 
 ## 📸 Screenshot
 
-![Job Agent Platform Repository](./job-agent-platform.png)
+
 
 **Access the platform:** Run `python main.py` and open `http://localhost:5000` in your web browser.
 
